@@ -1,0 +1,43 @@
+.main {
+    display: flex;
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.line{
+    display: flex;
+    height: 80px;
+    width: 1600px;
+}
+
+.header {
+    padding: 0;
+    background-color: rgba(47, 48, 58, 1);
+    height: 600px;
+    width: 1600px;
+}
+
+.efect_text {
+   height: 120px;
+   width: 696px;
+
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 44px;
+   line-height: 60px;
+   color: #FFFFFF;
+}
+
+.but_pos {
+    height: 50px;
+    width: 216px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+
+    color: #FFFFFF;
+}
